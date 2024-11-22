@@ -211,3 +211,25 @@ This forms the base value for further calculations, such as applying discounts o
  video presentation showcasing the app features
 
  https://github.com/user-attachments/assets/0857d676-9264-4d41-85b7-04686ac3c95f
+
+ https://github.com/user-attachments/assets/1d689115-fea4-40eb-9b00-a4ffed6588ce
+
+ Bibliography
+
+
+1. The IIE. 2024. Mobile App Scripting [MAST5112/d/p/w]. MODULE MANUAL 2024. The Independent Institute of Education: Unpublished.
+
+
+2. The IIE. 2024. INTRODUCTION TO PROGRAMMING LOGIC [MODULE
+
+MANUAL]. The Independent Institute of Education: Unpublished.
+
+
+3. Canva. 2024. Canva.com Available at: https://www.canva.com/ [Accessed: 17 August 2024].
+
+
+4. Perplexity.ai. 2024. Perplexity (version 2.25.1). [Large language model]. Available at: https://www.perplexity.ai/ [Accessed: 17 August 2024].
+
+
+5. Robles, M. M.2012. ‘Executive Perceptions of the Top 10 Soft Skills Needed in Today’s Workplace’, Business Communication Quarterly, 75(4), pp. 453–465. doi: 10.1177/1080569912460400
+
